@@ -1,0 +1,5 @@
+#! /usr/bin/env bash
+
+## find $HOME/R/x86_64-pc-linux-gnu-library/4.1 -type f,l | grep -Ei '\.R$' | rev | cut -d\/ -f1 | rev
+git config --local user.name '111202012411'
+git config --local user.name '111202012411@mhs.dinus.ac.id'
